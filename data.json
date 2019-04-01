@@ -1,0 +1,34 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "age": 30,
+      "email": "john@doe.com"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "age": 34,
+      "email": "jane@smith.com"
+    },
+    {
+      "id": "3",
+      "name": "George Roberts",
+      "age": 26,
+      "email": "george@roberts.com"
+    },
+    {
+      "id": "4",
+      "name": "Louis Appleseed",
+      "age": 43,
+      "email": "louis@appleseed.com"
+    },
+    {
+      "id": "5",
+      "name": "Peter Johnson",
+      "age": 21,
+      "email": "peter@johnson.com"
+    }
+  ]
+}
